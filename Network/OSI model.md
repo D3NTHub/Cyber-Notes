@@ -1,6 +1,6 @@
 # OSI Model 
 ## OSI Model = A Standard Model that describes how communication in a network works in a sequnetial manner (โมเดลมาตราฐานอธิบาย การสื่อสารในเครือข่ายทำงานเป็นลำดับขั้นอย่างไร)
-**## Divided into 7 layers.**
+## Divided into 7 layers.
 
 ### Application (Layer 7) 
 The layer closest to the user *EX Web browser , Email , HTTP*
