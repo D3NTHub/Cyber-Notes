@@ -9,7 +9,7 @@ Smartphone,
 Printer
 
 ## IP Address And MAC Address
-###IP Address = (Layer 3 OSI Model) Used for logical addressing and communication between networks. 
+### IP Address = (Layer 3 OSI Model) Used for logical addressing and communication between networks. 
 EX: 192.168.1.10 (เปรียบเสมือนชื่อ-นามสกุล ของผู้รับที่ระบบเครือข่ายใช้หาเส้นทาง)
 
 ### MAC Address = (Layer 2 OSI Model) A unique identifier assigned to a network interface.
