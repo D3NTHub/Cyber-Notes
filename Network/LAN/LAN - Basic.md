@@ -3,9 +3,9 @@
 (LAN = พื้นฐานของการสื่อสารในเครือข่ายระดับ local ในการส่งข้อมูลเข้าหากัน)
 
 ## Main Componets
-PC
-Laptop
-Smartphone
+PC,
+Laptop,
+Smartphone,
 Printer
 
 ## IP Address And MAC Address
@@ -21,7 +21,7 @@ When a computer needs to send data, it usually only knows the IP Address, but it
 ## Router = Connects different networks together and provides Internet access.
 
 ## Commond LAN Protocol 
-Ethernet
-APR
-DHCP
+Ethernet,
+APR,
+DHCP,
 DNS
