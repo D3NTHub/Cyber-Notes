@@ -1,27 +1,27 @@
-#LAN Basic 
-##A local area network  is a collection of devices connected together in one physical location such as a home , school , or office.
-##(LAN = พื้นฐานของการสื่อสารในเครือข่ายระดับ local ในการส่งข้อมูลเข้าหากัน)
+# LAN Basic 
+## A local area network  is a collection of devices connected together in one physical location such as a home , school , or office.
+## (LAN = พื้นฐานของการสื่อสารในเครือข่ายระดับ local ในการส่งข้อมูลเข้าหากัน)
 
-##Main Componets
-###PC
-###Laptop
-###Smartphone
-###Printer
+## Main Componets
+### PC
+### Laptop
+### Smartphone
+### Printer
 
-##IP Address And MAC Address
-###IP Address = (Layer 3 OSI Model) Used for logical addressing and communication between networks. 
-###EX: 192.168.1.10 (เปรียบเสมือนชื่อ-นามสกุล ของผู้รับที่ระบบเครือข่ายใช้หาเส้นทาง)
+## IP Address And MAC Address
+### IP Address = (Layer 3 OSI Model) Used for logical addressing and communication between networks. 
+### EX: 192.168.1.10 (เปรียบเสมือนชื่อ-นามสกุล ของผู้รับที่ระบบเครือข่ายใช้หาเส้นทาง)
 
-###MAC Address = (Layer 2 OSI Model) A unique identifier assigned to a network interface.
-###EX: 00:1A:2B:3C:4D:5E (เปรียบเสมือนที่อยู่ฮาร์ดแวร์ ใช้ในการส่งต่อข้อมูลในระดับสายและหรือ Wifi เดียวกัน)
-##When a computer needs to send data, it usually only knows the IP Address, but it needs the MAC address to actually send the data packet. 
+### MAC Address = (Layer 2 OSI Model) A unique identifier assigned to a network interface.
+### EX: 00:1A:2B:3C:4D:5E (เปรียบเสมือนที่อยู่ฮาร์ดแวร์ ใช้ในการส่งต่อข้อมูลในระดับสายและหรือ Wifi เดียวกัน)
+## When a computer needs to send data, it usually only knows the IP Address, but it needs the MAC address to actually send the data packet. 
 
-##Switch = Connects devices within the same LAN and forwards frames using MAC addresses.
+## Switch = Connects devices within the same LAN and forwards frames using MAC addresses.
 
-##Router = Connects different networks together and provides Internet access.
+## Router = Connects different networks together and provides Internet access.
 
-##Commond LAN Protocol 
-###Ethernet
-###APR
-###DHCP
-###DNS
+## Commond LAN Protocol 
+### Ethernet
+### APR
+### DHCP
+### DNS
